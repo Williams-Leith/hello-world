@@ -1,2 +1,3 @@
 # hello-world
-Tring this out
+Trying this out
+Copywriter finding things difficult.
